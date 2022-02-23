@@ -81,6 +81,9 @@
 * [A side-by-side comparison of seven OCR tools using multiple kinds of documents, from Factful](https://source.opennews.org/articles/so-many-ocr-options/)
 
   * [Source code](https://github.com/factful/ocr_testing)
+  
+* Good for historical OCR: https://github.com/tberg12/ocular  
+
 
 ## Noticeable digitization projects
 
